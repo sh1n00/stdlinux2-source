@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "getopt.h": "c",
+        "unistd.h": "c",
+        "getopt_posix.h": "c",
+        "getopt_ext.h": "c",
+        "getopt_core.h": "c"
+    }
+}
